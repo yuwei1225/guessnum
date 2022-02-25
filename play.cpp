@@ -6,5 +6,7 @@ int main()
   cout<<"name"<<endl;
   cout<<"------------------------------"<<endl;
   cout<<"so easy"<<endl;
+  
+  
   return 1;
 }
