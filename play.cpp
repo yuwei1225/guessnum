@@ -4,5 +4,5 @@ int main()
 {
   cout<<"student id"<<endl;
   cout<<"name"<<endl;
-  return 1;
+  return 0;
 }
